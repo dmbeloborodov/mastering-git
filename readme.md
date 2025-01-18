@@ -1,4 +1,5 @@
-## Heyoo everyone, welcome to by Git guide!
+## Welcome to Git!
 
 - Yo, Evgenie here! 
+- This is coming `dev-dmitrii`
 - I'm adding this from `feature`
